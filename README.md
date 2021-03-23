@@ -68,9 +68,6 @@ Deploy your app to a free static page hosting service, such as GitHub Pages. Sub
 
 * Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
 
-### About the Data
-
-Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
 
 - - -
 

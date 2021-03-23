@@ -69,6 +69,3 @@ Deploy your app to a free static page hosting service, such as GitHub Pages. Sub
 * Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
 
 
-- - -
-
-© 2019 Trilogy Education Services
